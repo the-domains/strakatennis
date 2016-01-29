@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[StrakaTennis]]></title>
         <description><![CDATA[StrakaTennis]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strakatennis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:45:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 17:52:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strakatennis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac66d4db-039b-4440-bca5-76070c5785bf.jpg">]]></description>
-            <link>undefined78eaaefe-37c8-4b1f-bbc0-1559b65b1d86/index.html</link>
+            <link>https://thegrid.ai/strakatennis/78eaaefe-37c8-4b1f-bbc0-1559b65b1d86/index.html</link>
             <guid isPermaLink="false">78eaaefe-37c8-4b1f-bbc0-1559b65b1d86</guid>
-            <pubDate>Fri, 29 Jan 2016 17:36:49 GMT</pubDate>
+            <pubDate>Fri, 29 Jan 2016 17:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
