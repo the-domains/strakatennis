@@ -1,14 +1,29 @@
+name: StrakaTennis
+favicon: null
 layout_spectrum: 0.3060708
+typography_spectrum: 0.1863406
+title: StrakaTennis
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9839798
-  brandStrength: 0.4206139
-  lightness: 0.9688027
-  rhythmicContrast: 0.8237774
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-typography_spectrum: 0.1863406
-name: StrakaTennis
+  brandStrength: 0.4206139
+  lightness: 0.9688027
+  saturation: 0.9839798
+  rhythmicContrast: 0.8237774
+purpose: []
