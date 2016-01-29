@@ -1,0 +1,14 @@
+layout_spectrum: 0.3060708
+color:
+  saturation: 0.9839798
+  brandStrength: 0.4206139
+  lightness: 0.9688027
+  rhythmicContrast: 0.8237774
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.1863406
+name: StrakaTennis
