@@ -4,7 +4,7 @@
         <description><![CDATA[StrakaTennis]]></description>
         <link>https://thegrid.ai/strakatennis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 17:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 17:53:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/strakatennis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/strakatennis/78eaaefe-37c8-4b1f-bbc0-1559b65b1d86/index.html</link>
             <guid isPermaLink="false">78eaaefe-37c8-4b1f-bbc0-1559b65b1d86</guid>
             <pubDate>Fri, 29 Jan 2016 17:38:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Coach of the Week: World Renowned Tennis Coach and Former Pro Christian Straka</p>]]></description>
+            <link>https://thegrid.ai/strakatennis/coach-of-the-week-world-renowned-tennis-coach-and-former-pr/index.html</link>
+            <guid isPermaLink="false">9a989ec5-3a8a-448d-b3ed-a8be0a13e385</guid>
+            <pubDate>Fri, 29 Jan 2016 17:46:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
